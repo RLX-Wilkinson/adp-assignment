@@ -54,7 +54,7 @@ class HorseTest {
     @Test
     @Timeout(10)
     void testTimeout() throws InterruptedException {
-        Thread.sleep(5000);                         //Waits 5 seconds (5000 milliseconds)
+        Thread.sleep(200);                         //Waits 5 seconds (5000 milliseconds)
         System.out.println(" Test Passed");
     }
 
