@@ -1,7 +1,7 @@
 package za.ac.cput.AdpAssignment1;
 
 /**
- * Author: Tauriq-Allie Wilkinsob
+ * Author: Tauriq-Allie Wilkinson
  *  * Subject: ADP372S
  *  * Student No.: 219071330
  */
